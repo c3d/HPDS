@@ -1,0 +1,1 @@
+@ Mon initialisation après un Memory LostPROG	{ #2880038200010FF0h #0h } STOF	{ 0 "" 80 } 13 CHR + Quote PRTPAR STO	{9600 0 1 0 3 1 } Quote IOPAR STO	Quote MENU 25.3 ASN	Quote << XLIB 1205 0 :0:1213 DUP DETACH PURGE 0 STO OFF >> Quote DEL STOEND
